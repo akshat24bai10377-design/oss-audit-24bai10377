@@ -1,5 +1,6 @@
+> Open source software project (Git)
 
- Open source software project (Git)
+Institution : Vityarthi
 
  About My Project :
 
@@ -66,8 +67,7 @@ It helps in identifying patterns like errors in system logs.
 This script asks the user a few questions and generates a short open-source manifesto in a text file.
 
 
-
- How to Run the Scripts
+How to Run the Scripts
 
 Open terminal in this folder and run:
 
@@ -91,12 +91,19 @@ Example:
 
 
 
- What I Learned
+What I Learned
 
 While working on this project, I learned:
 
 > Basics of bash scripting
 > How to work with Linux commands
 > How open-source tools like Git are used in real life
+
+
+Student :
+
+Akshat Bhave 
+
+24BAI10377
 
 
