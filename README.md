@@ -1,8 +1,8 @@
-> Open source software project (Git)
+# Open source software project (Git)
 
 Institution : Vityarthi
 
- About My Project :
+## About My Project :
 
 This project was done as part of the Open Source Software course.
 The task given to me was to take a real open-source tool and understand how Linux-based systems work .
@@ -11,7 +11,7 @@ I chose "Git" as the software for this audit because it is widely used and plays
 
 
 
-Chosen Software
+##Chosen Software
 
 Git is a distributed version control system created by Linus Torvalads.
 
@@ -19,12 +19,12 @@ It is used to track changes in code and helps multiple developers collaborate ef
 
 
 
-What This Project Contains
+## What This Project Contains
 
 This repository includes five shell scripts written in bash.
 Each script performs a different task related to system inspection and automation.
 
-Scripts Overview
+## Scripts Overview
 
  1. script1_system_identity.sh
 
@@ -67,7 +67,7 @@ It helps in identifying patterns like errors in system logs.
 This script asks the user a few questions and generates a short open-source manifesto in a text file.
 
 
-How to Run the Scripts
+## How to Run the Scripts
 
 Open terminal in this folder and run:
 
@@ -77,7 +77,7 @@ Make scripts executable:
 chmod +x scriptname.sh
 
 
-Run script:
+## Run script:
 
 
 ./scriptname.sh
@@ -91,7 +91,7 @@ Example:
 
 
 
-What I Learned
+## What I Learned
 
 While working on this project, I learned:
 
@@ -100,7 +100,7 @@ While working on this project, I learned:
 > How open-source tools like Git are used in real life
 
 
-Student :
+## Student :
 
 Akshat Bhave 
 
