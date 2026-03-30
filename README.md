@@ -11,7 +11,7 @@ I chose "Git" as the software for this audit because it is widely used and plays
 
 
 
-##Chosen Software
+## Chosen Software
 
 Git is a distributed version control system created by Linus Torvalads.
 
