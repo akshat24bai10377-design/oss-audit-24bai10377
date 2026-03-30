@@ -17,6 +17,17 @@ Git is a distributed version control system created by Linus Torvalads.
 
 It is used to track changes in code and helps multiple developers collaborate efficienntly.
 
+## Structure 
+
+oss-audit-24BAI10377
+│
+├── script1_system_identity.sh
+├── script2_package_inspector.sh
+├── script3_disk_auditor.sh
+├── script4_log_analyzer.sh
+├── script5_manifesto_generator.sh
+└── README.md
+
 
 
 ## What This Project Contains
