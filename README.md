@@ -1,8 +1,11 @@
 # Open source software project (Git)
 
 Institution : Vityarthi
+
 Name : Akshat Bhave
+
 Registration number : 24BAI10377
+
 Chosen Software : GIT
 
 ## About My Project :
