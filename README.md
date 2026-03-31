@@ -1,6 +1,9 @@
 # Open source software project (Git)
 
 Institution : Vityarthi
+Name : Akshat Bhave
+Registration number : 24BAI10377
+Chosen Software : GIT
 
 ## About My Project :
 
@@ -117,10 +120,5 @@ While working on this project, I learned:
 > How open-source tools like Git are used in real life
 
 
-## Student :
-
-Akshat Bhave 
-
-24BAI10377
 
 
